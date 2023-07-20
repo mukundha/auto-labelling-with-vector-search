@@ -1,12 +1,12 @@
 ### Automatic Labelling of Training data with Vector search
 
 Start with a dataset in this format,
-```
+
 |message_id|message|label|
 |--|--|--|
 |1|This is a good movie|Positive|
 |2|This is a bad movie|Negative|
-```
+
 
 Setup the environment
 
